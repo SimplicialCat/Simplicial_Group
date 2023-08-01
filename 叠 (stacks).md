@@ -17,3 +17,5 @@ https://stacks.math.columbia.edu/tag/03B3
 ## Hollander, A Homotopy Theory for Stacks
 
 https://arxiv.org/abs/math/0110247
+
+> Hollander的文章写得特别好
