@@ -6,3 +6,9 @@ Stacks Project 是一个开源代数几何项目.
 https://stacks.math.columbia.edu/tag/03B3
 
 ## Olsson, Algebraic spaces and stacks
+
+(见群文件)
+
+## Hollander, A Homotopy Theory for Stacks
+
+https://arxiv.org/abs/math/0110247
