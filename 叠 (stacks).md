@@ -14,6 +14,17 @@ https://stacks.math.columbia.edu/tag/03B3
 
 (见群文件)
 
+> 【匿名】金蝉子  21:36:36
+> @单纯猫 然后olsson的文章也慎读
+> 【匿名】普贤菩萨  21:36:59
+> olsson stack那个部分写的乱乱的
+> 【匿名】金蝉子  21:37:02
+> 主要是有的时候不知道o老在玩儿些啥
+> 所以尤其是stack上的coherent sheaf这种东西
+> 其实quasi coherent这个在普通的概形上如果想扩张到（小）fppf上，就需要一小些代价
+> 然后这个代价翻sp就介绍的比较清楚
+> 然后看o大佬的文章就大概知道了
+
 ## Hollander, A Homotopy Theory for Stacks
 
 https://arxiv.org/abs/math/0110247
