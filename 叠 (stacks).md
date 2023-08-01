@@ -1,4 +1,4 @@
-# 叠 (stacks) 理论看什么资料
+# 叠 (stacks) 理论看什么
 
 ## Stacks Project
 
