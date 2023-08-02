@@ -39,3 +39,18 @@ https://stacks.math.columbia.edu/tag/03B3
 https://arxiv.org/abs/math/0110247
 
 > Hollander的文章写得特别好
+
+## Adeel Khan, A Modern Introduction to Algebraic Stacks
+
+https://www.preschema.com/lecture-notes/2022-stacks/index.html
+
+## Niven Achenjang, Introduction to Stacks and Moduli Notes
+
+https://www.mit.edu/~NivenT/assets/pdf//UW__Math_582C_Notes.pdf
+
+## Jerad Alper 模与叠引论
+
+主页:
+https://sites.math.washington.edu/~jarod/
+
+https://www.bilibili.com/video/BV1br4y1T7Gk
