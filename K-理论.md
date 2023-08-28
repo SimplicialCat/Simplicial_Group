@@ -1,4 +1,4 @@
-# (拓扑) K-理论看什么
+# K-理论看什么
 
 ## Atiyah, K-Theory
 
@@ -10,3 +10,11 @@ Hatcher 的个人主页:
 https://pi.math.cornell.edu/~hatcher/
 
 ## Karoubi, K-Theory
+
+---
+
+代数 K-理论
+
+## A universal characterization of higher algebraic K-theory
+
+https://arxiv.org/abs/1001.2282
