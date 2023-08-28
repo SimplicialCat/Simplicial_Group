@@ -18,3 +18,7 @@ https://pi.math.cornell.edu/~hatcher/
 ## A universal characterization of higher algebraic K-theory
 
 https://arxiv.org/abs/1001.2282
+
+## Fabian Hebestreit 的讲义
+
+https://sites.google.com/view/fabian-hebestreit/home/lecture-notes
