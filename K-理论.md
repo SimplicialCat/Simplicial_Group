@@ -15,6 +15,10 @@ https://pi.math.cornell.edu/~hatcher/
 
 代数 K-理论
 
+## Weibel, The K-Book: An Introduction to Algebraic K-Theory
+
+https://people.math.rochester.edu/faculty/doug/otherpapers/Kbook.pdf
+
 ## A universal characterization of higher algebraic K-theory
 
 https://arxiv.org/abs/1001.2282
