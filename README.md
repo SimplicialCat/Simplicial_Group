@@ -1,6 +1,6 @@
 # 欢迎来到 Simplicial Group
 
-[单纯群](https://ncatlab.org/nlab/show/simplicial+group)是一个 QQ 群, 群号 444237006. 本群主要讨论数学问题, 开放匿名 (匿名只可用于讨论数学问题).
+[单纯群](https://ncatlab.org/nlab/show/simplicial+group)是一个 QQ 群, 群号 444237006. 本群主要讨论数学问题, 开放匿名, **匿名只可用于讨论数学问题**. 注意 QQ 的某些版本现在禁止匿名, 但是 TIM (QQ 纯净版) 可以匿名. 请珍惜匿名的机会!
 
 这里是单纯群精华信息汇总, 包括一些以主题命名的文件, 内容主要是学习资料推荐.
 
