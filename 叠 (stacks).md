@@ -10,6 +10,10 @@ https://stacks.math.columbia.edu/tag/0ELS
 SP 最后一部分的这个页面列举了有关叠的一些资料, 包括 Olssen 的书:
 https://stacks.math.columbia.edu/tag/03B3
 
+## Champs Algebrique by G. Lamoun (法语)
+
+据 Springer 称, 这本书是 "The first systematic account of the general theory of algebraic stacks over an arbitrary base scheme".
+
 ## Olsson, Algebraic spaces and stacks
 
 (见群文件)
