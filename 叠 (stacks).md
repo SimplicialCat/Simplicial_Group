@@ -54,6 +54,8 @@ https://www.mit.edu/~NivenT/assets/pdf//UW__Math_582C_Notes.pdf
 
 ## Jerad Alper 模与叠引论
 
+人称 "代数叠/模空间中的 Hartshorne"
+
 主页:
 https://sites.math.washington.edu/~jarod/
 
